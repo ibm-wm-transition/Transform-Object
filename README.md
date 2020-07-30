@@ -21,7 +21,7 @@ List of Date transform available in the webMethods.io Integration are:
 3. Select `Reciepes` the click on `Import`.
 ![image](https://user-images.githubusercontent.com/60179170/88805095-5d798500-d1cc-11ea-97de-dec146247ecc.png)
 4. Then select the downloaded file and click on `open`.
-![image](https://user-images.githubusercontent.com/60179170/88919006-0933db00-d288-11ea-92c0-c06aca806803.png)
+![image](https://user-images.githubusercontent.com/60179170/88961817-2b971a00-d2c3-11ea-881f-2df53ac0a1ec.png)
 5. After that you will be able the workflow in your recipie list.<br/>
 ![image](https://user-images.githubusercontent.com/60179170/88919083-236db900-d288-11ea-8748-0df58c9ef64f.png)
 6. Click on that workflow and then select the project name where you want to import the workflow and click on `Done`.
