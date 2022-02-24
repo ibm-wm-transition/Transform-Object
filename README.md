@@ -52,3 +52,5 @@ Yeee now you have succesfully imported the work flow.
 ![image](https://user-images.githubusercontent.com/60179170/88962560-3aca9780-d2c4-11ea-8f76-a92f35ef37e2.png)
 2.  Now run the workflow it will give you output in the logger. 
 
+--------
+These tools are provided as-is and without warranty or support. They do not constitute part of the Software AG product suite. Users are free to use, fork and modify them, subject to the license agreement. While Software AG welcomes contributions, we cannot guarantee to include every contribution in the master project.
